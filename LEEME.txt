@@ -1,0 +1,30 @@
+FÚTBOL HN - sitio web estático
+================================
+
+Archivos:
+- index.html: página principal, 3 noticias resumidas y datos estructurados SEO.
+- styles.css: diseño responsive.
+- script.js: menú móvil y fecha automática.
+- robots.txt y sitemap.xml: archivos de rastreo.
+- favicon.svg: icono del sitio.
+
+IMPORTANTE ANTES DE PUBLICAR
+1. Reemplazá todas las apariciones de https://tudominio.com por tu dominio real.
+2. Actualizá canonical, Open Graph, Twitter Card, JSON-LD, robots.txt y sitemap.xml.
+3. Creá una imagen social og-futbol-hn.jpg (1200x630) y logo-futbol-hn.png; subilos a la raíz o cambiá sus URLs.
+4. Verificá las noticias, fechas y enlaces de fuentes antes de volver a publicar o actualizar. No se garantiza indexación ni posicionamiento.
+5. Subí los archivos a un hosting HTTPS y agregá el dominio a Google Search Console. Enviá /sitemap.xml.
+6. Para ampliar el portal, creá una URL independiente por noticia con título, canonical, fecha, autor, imagen propia y datos estructurados correctos. Esta maqueta contiene las tres notas en una sola página por simplicidad.
+7. No copies artículos completos ni fotos de terceros sin permiso. Las notas son resúmenes redactados y enlazan a sus fuentes.
+
+SEO incorporado:
+- title y meta description
+- idioma es-HN y viewport móvil
+- canonical placeholder
+- Open Graph y Twitter metadata
+- estructura semántica y enlaces internos
+- JSON-LD NewsMediaOrganization y BlogPosting
+- robots.txt y sitemap.xml
+- diseño responsive y navegación accesible
+
+El SEO no garantiza aparecer en los primeros resultados. Las fechas y contenidos son una instantánea editorial al 24 de octubre de 2026 y deben actualizarse con regularidad.
